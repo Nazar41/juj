@@ -1,0 +1,189 @@
+
+.container{
+    width: 1440px;
+   margin: 0 auto;
+}
+.header{
+    height: 100px;
+    border: black 1px solid;
+}
+.header_inner{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.ru{
+    width: 35px;
+    background: #4AD295;
+    border-radius: 2px;
+    text-align: center;
+}
+.ua{
+    text-align: center;
+    width: 35px;
+}
+.mes{
+display: inline-flex;
+}
+.inst{
+    margin: 0 15px 0 15px;
+}
+.tel{
+    display: inline-flex;
+}
+.btn{
+    display: inline-flex;
+}
+.btn_1{
+    Width:240px;
+    Height:55px;
+    background-color: #EFF3F6;
+    margin-left: 5px;
+}
+.btn_2{
+    Width:240px;
+    Height:55px;
+    background-color: #EFF3F6;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+
+.intro{
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.1) 14.37%, rgba(0, 0, 0, 0.8) 100%), url("/Mask\ Group\ \(1\).png") center center no-repeat;
+   background-size: cover;
+    height: 500px;
+}
+.container1{
+    width: 500px;
+   margin: 0 auto;
+}
+.header1{
+    height: 100px;
+    border: rgb(255, 255, 255) 1px solid;
+}
+.header_inner1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.intro-inner{
+    text-align: center;
+    background-size:#ffff;
+}
+.lol{
+    color:rgb(255, 255, 255);
+    position: absolute;
+    top:330px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    height: 45px;
+    border:2px solid #C4C4C4;
+}
+.hah{
+    color:#ffff;
+    position: absolute;
+    top:380px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.ggg{
+    color: #fff;
+    position: absolute;
+    width: 157px;
+    height: 60px;
+    background-color:rgba(255, 255, 255, 0.25);
+    top: 500px;
+}
+.ad{
+    position: absolute;
+    top: 600px;
+}
+.services{
+    width: 100%;
+    background: #F8F8F8;
+}
+
+.a{
+    display: flex;
+    gap: 200px;
+}
+
+.s{
+    width: max-content;
+    padding: 40px 0 30px 390px;
+}
+
+.services-header{
+    font-size: 38px;
+    font-weight: 600;
+    margin: 0 0 30px 0;
+}
+
+.g{
+    font-size: 22px;
+    color: #777777;
+    margin: 0 0 35px 0;
+}
+
+.h{
+    display: flex;
+    justify-content: space-between;
+}
+
+.services-button
+
+{
+    color: #969696;
+    font-weight: bold;
+    padding: 17px 64px 16px 65px;
+    border: 1px solid #969696;
+    border-radius: 2px; 
+    font-size: 18px;
+}
+
+.services-button:hover{
+    color: #fff;
+    background: #BDBDBD;
+    border-color: transparent;
+}
+.kl{
+    position: absolute;
+    top: 822px;
+    right: 370px;
+}
+.kj{
+    position: absolute;
+    top: 834px;
+    right: 381px;
+}
+.kf{
+    position: absolute;
+    top: 852px;
+    right: 370px;
+}
+.kk{
+    position: absolute;
+    top: 854px;
+    right: 381px;
+}.kl{
+    position: absolute;
+    top: 822px;
+    right: 370px;
+}
+.kj{
+    position: absolute;
+    top: 834px;
+    right: 381px;
+}
